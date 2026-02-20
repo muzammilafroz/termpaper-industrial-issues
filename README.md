@@ -69,11 +69,8 @@ The ASI datasets contain (among others) the following variables critical to the 
 
 | Source | Description |
 |--------|-------------|
-| **EPWRF India Time Series** ([epwrfits.in](https://www.epwrfits.in)) | Structured access to Annual Survey of Industries (ASI) data published by the Ministry of Statistics and Programme Implementation (MoSPI), Government of India |
+| **EPWRF India Time Series** ([epwrfits.in](https://www.epwrfits.in)) | Structured access to Annual Survey of Industries (ASI) data published by the Ministry of Statistics and Programme Implementation (MoSPI), Government of India, Gross Fixed Capital Formation at current and constant prices for implicit deflator derivation, Consumer Price Index for Industrial Workers (CPI-IW), and Wholesale Price Index series for manufactured products and machinery |
 | **UN Comtrade** ([comtrade.un.org](https://comtrade.un.org)) | International merchandise trade statistics; apparel exports/imports under HS Chapters 61 and 62 |
-| **Office of the Economic Adviser, DPIIT** | Wholesale Price Index series for manufactured products and machinery |
-| **Labour Bureau, Ministry of Labour** | Consumer Price Index for Industrial Workers (CPI-IW) |
-| **MoSPI, National Accounts Division** | Gross Fixed Capital Formation at current and constant prices for implicit deflator derivation |
 
 ## Requirements
 
