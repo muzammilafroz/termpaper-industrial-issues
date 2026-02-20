@@ -91,7 +91,7 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels ruptures scikit-le
 
 If using this data or analysis, please cite:
 
-> Structural Transformation of India's Wearing Apparel Manufacturing Sector (NIC Division 14, 1973--2024). Term paper, 2026. Data sourced from EPWRF India Time Series (ASI), MoSPI, Government of India.
+> Structural Transformation of India's Wearing Apparel Manufacturing Sector (NIC Division 14, 1973--2024). S.M. Muzammil Afroz, Term paper, Centre For Development Studies, 2026. Data sourced from EPWRF India Time Series (ASI), MoSPI, Government of India.
 
 ## License
 
