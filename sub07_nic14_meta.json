@@ -1,0 +1,474 @@
+{
+  "nic_folder": "nic14_manufacture_of_wearing_apparel",
+  "sub_code": "sub07",
+  "files_found": 57,
+  "files_parsed": 57,
+  "files_failed": [],
+  "variables": [
+    {
+      "name": "Number of Factories",
+      "idx": 1,
+      "unit": "-",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var01_number_of_factories_nic14.xls"
+    },
+    {
+      "name": "Fixed Capital",
+      "idx": 2,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var02_fixed_capital_nic14.xls"
+    },
+    {
+      "name": "Working Capital",
+      "idx": 3,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var03_working_capital_nic14.xls"
+    },
+    {
+      "name": "Physical Working Capital",
+      "idx": 4,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var04_physical_working_capital_nic14.xls"
+    },
+    {
+      "name": "Productive Capital",
+      "idx": 5,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var05_productive_capital_nic14.xls"
+    },
+    {
+      "name": "Invested Capital",
+      "idx": 6,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var06_invested_capital_nic14.xls"
+    },
+    {
+      "name": "Outstanding Loans",
+      "idx": 7,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var07_outstanding_loans_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Total",
+      "idx": 8,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var08_fuels_consumed_-_total_nic14.xls"
+    },
+    {
+      "name": "Materials Consumed",
+      "idx": 9,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var09_materials_consumed_nic14.xls"
+    },
+    {
+      "name": "Total Input",
+      "idx": 10,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var10_total_input_nic14.xls"
+    },
+    {
+      "name": "Rent Paid",
+      "idx": 11,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var11_rent_paid_nic14.xls"
+    },
+    {
+      "name": "Interest Paid",
+      "idx": 12,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var12_interest_paid_nic14.xls"
+    },
+    {
+      "name": "Depreciation",
+      "idx": 13,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var13_depreciation_nic14.xls"
+    },
+    {
+      "name": "Products and By-products",
+      "idx": 14,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var14_products_and_by-products_nic14.xls"
+    },
+    {
+      "name": "Value of Gross Output",
+      "idx": 15,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var15_value_of_gross_output_nic14.xls"
+    },
+    {
+      "name": "Net Income",
+      "idx": 16,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var16_net_income_nic14.xls"
+    },
+    {
+      "name": "Profits",
+      "idx": 17,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var17_profits_nic14.xls"
+    },
+    {
+      "name": "Net Value Added",
+      "idx": 18,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var18_net_value_added_nic14.xls"
+    },
+    {
+      "name": "Gross Value Added",
+      "idx": 19,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var19_gross_value_added_nic14.xls"
+    },
+    {
+      "name": "Net Fixed Capital Formation",
+      "idx": 20,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var20_net_fixed_capital_formation_nic14.xls"
+    },
+    {
+      "name": "Gross Fixed Capital Formation",
+      "idx": 21,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var21_gross_fixed_capital_formation_nic14.xls"
+    },
+    {
+      "name": "Additions to Total Stock",
+      "idx": 22,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var22_additions_to_total_stock_nic14.xls"
+    },
+    {
+      "name": "Gross Capital Formation",
+      "idx": 23,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var23_gross_capital_formation_nic14.xls"
+    },
+    {
+      "name": "Total Persons Engaged",
+      "idx": 24,
+      "unit": "-",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var24_total_persons_engaged_nic14.xls"
+    },
+    {
+      "name": "Number of Workers",
+      "idx": 25,
+      "unit": "-",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var25_number_of_workers_nic14.xls"
+    },
+    {
+      "name": "Number of Workers - Directly Employed",
+      "idx": 26,
+      "unit": "-",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var26_number_of_workers_-_directly_employed_nic14.xls"
+    },
+    {
+      "name": "Number of Workers - Directly Employed - Men",
+      "idx": 27,
+      "unit": "-",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var27_number_of_workers_-_directly_employed_-_men_nic14.xls"
+    },
+    {
+      "name": "Number of Workers - Directly Employed - Women",
+      "idx": 28,
+      "unit": "-",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var28_number_of_workers_-_directly_employed_-_women_nic14.xls"
+    },
+    {
+      "name": "Number of Workers - Employed Through Contractors",
+      "idx": 29,
+      "unit": "-",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var29_number_of_workers_-_employed_through_contractors_nic14.xls"
+    },
+    {
+      "name": "Employees Other Than Workers",
+      "idx": 30,
+      "unit": "-",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var30_employees_other_than_workers_nic14.xls"
+    },
+    {
+      "name": "Supervisory and Managerial Staff",
+      "idx": 31,
+      "unit": "-",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var31_supervisory_and_managerial_staff_nic14.xls"
+    },
+    {
+      "name": "Other Employees",
+      "idx": 32,
+      "unit": "-",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var32_other_employees_nic14.xls"
+    },
+    {
+      "name": "Unpaid family members/proprietor etc",
+      "idx": 33,
+      "unit": "-",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var33_unpaid_family_membersproprietor_etc_nic14.xls"
+    },
+    {
+      "name": "Number of Mandays - Employees",
+      "idx": 34,
+      "unit": "(in '000)",
+      "rows": 42,
+      "columns": 39,
+      "file": "sub07_var34_number_of_mandays_-_employees_nic14.xls"
+    },
+    {
+      "name": "Total Emoluments",
+      "idx": 36,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var36_total_emoluments_nic14.xls"
+    },
+    {
+      "name": "Wages and Salaries - Total",
+      "idx": 37,
+      "unit": "(Rs Lakh)",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var37_wages_and_salaries_-_total_nic14.xls"
+    },
+    {
+      "name": "Wages and Salaries - Workers",
+      "idx": 38,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var38_wages_and_salaries_-_workers_nic14.xls"
+    },
+    {
+      "name": "Wages and Salaries - Supervisory and Managerial Staff",
+      "idx": 39,
+      "unit": "(Rs Lakh)",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var39_wages_and_salaries_-_supervisory_and_managerial_staff_nic14.xls"
+    },
+    {
+      "name": "Wages and Salaries - Other Employees",
+      "idx": 40,
+      "unit": "(Rs Lakh)",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var40_wages_and_salaries_-_other_employees_nic14.xls"
+    },
+    {
+      "name": "Bonus to All Staff",
+      "idx": 41,
+      "unit": "(Rs Lakh)",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var41_bonus_to_all_staff_nic14.xls"
+    },
+    {
+      "name": "PF and Other Benefits",
+      "idx": 42,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var42_pf_and_other_benefits_nic14.xls"
+    },
+    {
+      "name": "Number of Factories in Operation",
+      "idx": 43,
+      "unit": "-",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var43_number_of_factories_in_operation_nic14.xls"
+    },
+    {
+      "name": "Gross Value of Addition to Fixed Capital",
+      "idx": 44,
+      "unit": "(Rs Lakh)",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var44_gross_value_of_addition_to_fixed_capital_nic14.xls"
+    },
+    {
+      "name": "Gross Value of Plant and Machinery",
+      "idx": 45,
+      "unit": "(Rs Lakh)",
+      "rows": 26,
+      "columns": 39,
+      "file": "sub07_var45_gross_value_of_plant_and_machinery_nic14.xls"
+    },
+    {
+      "name": "Rent Received",
+      "idx": 46,
+      "unit": "(Rs Lakh)",
+      "rows": 24,
+      "columns": 39,
+      "file": "sub07_var46_rent_received_nic14.xls"
+    },
+    {
+      "name": "Interest Received",
+      "idx": 47,
+      "unit": "(Rs Lakh)",
+      "rows": 24,
+      "columns": 39,
+      "file": "sub07_var47_interest_received_nic14.xls"
+    },
+    {
+      "name": "Addition in Stock of Materials, Fuels, etc.",
+      "idx": 48,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var48_addition_in_stock_of_materials_fuels_etc_nic14.xls"
+    },
+    {
+      "name": "Addition in Stock of Semi-Finished Goods",
+      "idx": 49,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var49_addition_in_stock_of_semi-finished_goods_nic14.xls"
+    },
+    {
+      "name": "Addition in Stock of Finished Goods",
+      "idx": 50,
+      "unit": "(Rs Lakh)",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var50_addition_in_stock_of_finished_goods_nic14.xls"
+    },
+    {
+      "name": "Number of Workers - Directly Employed - Children",
+      "idx": 51,
+      "unit": "-",
+      "rows": 10,
+      "columns": 39,
+      "file": "sub07_var51_number_of_workers_-_directly_employed_-_children_nic14.xls"
+    },
+    {
+      "name": "Number of Employees",
+      "idx": 52,
+      "unit": "-",
+      "rows": 43,
+      "columns": 39,
+      "file": "sub07_var52_number_of_employees_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Coal (Quantity)",
+      "idx": 53,
+      "unit": "(Thousand Tonnes)",
+      "rows": 24,
+      "columns": 39,
+      "file": "sub07_var53_fuels_consumed_-_coal_quantity_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Coal (Value)",
+      "idx": 54,
+      "unit": "(Rs Lakh)",
+      "rows": 24,
+      "columns": 39,
+      "file": "sub07_var54_fuels_consumed_-_coal_value_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Electricity Purchased (Quantity)",
+      "idx": 55,
+      "unit": "(Thousand kWh)",
+      "rows": 24,
+      "columns": 39,
+      "file": "sub07_var55_fuels_consumed_-_electricity_purchased_quantity_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Electricity (Value)",
+      "idx": 56,
+      "unit": "(Rs Lakh)",
+      "rows": 24,
+      "columns": 39,
+      "file": "sub07_var56_fuels_consumed_-_electricity_value_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Petroleum Products (Value)",
+      "idx": 57,
+      "unit": "(Rs Lakh)",
+      "rows": 24,
+      "columns": 39,
+      "file": "sub07_var57_fuels_consumed_-_petroleum_products_value_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Other Fuel (Value)",
+      "idx": 58,
+      "unit": "(Rs Lakh)",
+      "rows": 24,
+      "columns": 39,
+      "file": "sub07_var58_fuels_consumed_-_other_fuel_value_nic14.xls"
+    }
+  ],
+  "year_range": "1980 - 1981 to 2023 - 2024",
+  "is_statewise": true,
+  "output_long": "sub07_nic14_long.csv",
+  "output_wide": "sub07_nic14_wide.csv",
+  "long_rows": 78390,
+  "wide_shape": [
+    1677,
+    59
+  ]
+}

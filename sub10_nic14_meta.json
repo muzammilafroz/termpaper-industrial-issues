@@ -1,0 +1,554 @@
+{
+  "nic_folder": "nic14_wearing_apparel",
+  "sub_code": "sub10",
+  "files_found": 67,
+  "files_parsed": 67,
+  "files_failed": [],
+  "variables": [
+    {
+      "name": "Number of Factories",
+      "idx": 1,
+      "unit": "-",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var01_number_of_factories_nic14.xls"
+    },
+    {
+      "name": "Fixed Capital",
+      "idx": 2,
+      "unit": "(Rs Crore)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var02_fixed_capital_nic14.xls"
+    },
+    {
+      "name": "Working Capital",
+      "idx": 3,
+      "unit": "(Rs Crore)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var03_working_capital_nic14.xls"
+    },
+    {
+      "name": "Physical Working Capital",
+      "idx": 4,
+      "unit": "(Rs Crore)",
+      "rows": 50,
+      "columns": 1,
+      "file": "sub10_var04_physical_working_capital_nic14.xls"
+    },
+    {
+      "name": "Productive Capital",
+      "idx": 5,
+      "unit": "(Rs Crore)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var05_productive_capital_nic14.xls"
+    },
+    {
+      "name": "Invested Capital",
+      "idx": 6,
+      "unit": "(Rs Crore)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var06_invested_capital_nic14.xls"
+    },
+    {
+      "name": "Outstanding Loans",
+      "idx": 7,
+      "unit": "(Rs Crore)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var07_outstanding_loans_nic14.xls"
+    },
+    {
+      "name": "Number of Workers",
+      "idx": 8,
+      "unit": "(in '000)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var08_number_of_workers_nic14.xls"
+    },
+    {
+      "name": "Number of Mandays - Workers",
+      "idx": 9,
+      "unit": "(in Lakh)",
+      "rows": 18,
+      "columns": 1,
+      "file": "sub10_var09_number_of_mandays_-_workers_nic14.xls"
+    },
+    {
+      "name": "Number of Employees",
+      "idx": 10,
+      "unit": "(in '000)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var10_number_of_employees_nic14.xls"
+    },
+    {
+      "name": "Number of Mandays - Employees",
+      "idx": 11,
+      "unit": "(in Lakh)",
+      "rows": 49,
+      "columns": 1,
+      "file": "sub10_var11_number_of_mandays_-_employees_nic14.xls"
+    },
+    {
+      "name": "Total Persons Engaged",
+      "idx": 12,
+      "unit": "(in '000)",
+      "rows": 44,
+      "columns": 1,
+      "file": "sub10_var12_total_persons_engaged_nic14.xls"
+    },
+    {
+      "name": "Wages and Salaries - Workers",
+      "idx": 13,
+      "unit": "(Rs Crore)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var13_wages_and_salaries_-_workers_nic14.xls"
+    },
+    {
+      "name": "PF and Other Benefits",
+      "idx": 14,
+      "unit": "(Rs Crore)",
+      "rows": 45,
+      "columns": 1,
+      "file": "sub10_var14_pf_and_other_benefits_nic14.xls"
+    },
+    {
+      "name": "Total Emoluments",
+      "idx": 15,
+      "unit": "(Rs Crore)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var15_total_emoluments_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Total",
+      "idx": 16,
+      "unit": "(Rs Crore)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var16_fuels_consumed_-_total_nic14.xls"
+    },
+    {
+      "name": "Materials Consumed",
+      "idx": 17,
+      "unit": "(Rs Crore)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var17_materials_consumed_nic14.xls"
+    },
+    {
+      "name": "Total Input",
+      "idx": 18,
+      "unit": "(Rs Crore)",
+      "rows": 51,
+      "columns": 1,
+      "file": "sub10_var18_total_input_nic14.xls"
+    },
+    {
+      "name": "Rent Paid",
+      "idx": 19,
+      "unit": "(Rs Crore)",
+      "rows": 45,
+      "columns": 1,
+      "file": "sub10_var19_rent_paid_nic14.xls"
+    },
+    {
+      "name": "Interest Paid",
+      "idx": 20,
+      "unit": "(Rs Crore)",
+      "rows": 45,
+      "columns": 1,
+      "file": "sub10_var20_interest_paid_nic14.xls"
+    },
+    {
+      "name": "Depreciation",
+      "idx": 21,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var21_depreciation_nic14.xls"
+    },
+    {
+      "name": "Products and By-products",
+      "idx": 22,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var22_products_and_by-products_nic14.xls"
+    },
+    {
+      "name": "Value of Gross Output",
+      "idx": 23,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var23_value_of_gross_output_nic14.xls"
+    },
+    {
+      "name": "Net Income",
+      "idx": 24,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var24_net_income_nic14.xls"
+    },
+    {
+      "name": "Profits",
+      "idx": 25,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var25_profits_nic14.xls"
+    },
+    {
+      "name": "Net Value Added",
+      "idx": 26,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var26_net_value_added_nic14.xls"
+    },
+    {
+      "name": "Gross Value Added",
+      "idx": 27,
+      "unit": "(Rs Crore)",
+      "rows": 4,
+      "columns": 1,
+      "file": "sub10_var27_gross_value_added_nic14.xls"
+    },
+    {
+      "name": "Net Fixed Capital Formation",
+      "idx": 28,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var28_net_fixed_capital_formation_nic14.xls"
+    },
+    {
+      "name": "Gross Fixed Capital Formation",
+      "idx": 29,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var29_gross_fixed_capital_formation_nic14.xls"
+    },
+    {
+      "name": "Additions to Total Stock",
+      "idx": 30,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var30_additions_to_total_stock_nic14.xls"
+    },
+    {
+      "name": "Gross Capital Formation",
+      "idx": 31,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var31_gross_capital_formation_nic14.xls"
+    },
+    {
+      "name": "Total Emoluments including Employers' Contribution",
+      "idx": 32,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var32_total_emoluments_including_employers_contribution_nic14.xls"
+    },
+    {
+      "name": "Old Age Benefits",
+      "idx": 33,
+      "unit": "(Rs Crore)",
+      "rows": 9,
+      "columns": 1,
+      "file": "sub10_var33_old_age_benefits_nic14.xls"
+    },
+    {
+      "name": "Social Security Benefits",
+      "idx": 34,
+      "unit": "(Rs Crore)",
+      "rows": 9,
+      "columns": 1,
+      "file": "sub10_var34_social_security_benefits_nic14.xls"
+    },
+    {
+      "name": "Other Benefits",
+      "idx": 35,
+      "unit": "(Rs Crore)",
+      "rows": 9,
+      "columns": 1,
+      "file": "sub10_var35_other_benefits_nic14.xls"
+    },
+    {
+      "name": "Addition in Stock of Materials, Fuels, etc.",
+      "idx": 36,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var36_addition_in_stock_of_materials_fuels_etc_nic14.xls"
+    },
+    {
+      "name": "Addition in Stock of Semi-Finished Goods",
+      "idx": 37,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var37_addition_in_stock_of_semi-finished_goods_nic14.xls"
+    },
+    {
+      "name": "Addition in Stock of Finished Goods",
+      "idx": 38,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var38_addition_in_stock_of_finished_goods_nic14.xls"
+    },
+    {
+      "name": "Contribution to Provident and Other Funds",
+      "idx": 39,
+      "unit": "(Rs Crore)",
+      "rows": 9,
+      "columns": 1,
+      "file": "sub10_var39_contribution_to_provident_and_other_funds_nic14.xls"
+    },
+    {
+      "name": "Workmen and Staff Welfare Expenses",
+      "idx": 40,
+      "unit": "(Rs Crore)",
+      "rows": 9,
+      "columns": 1,
+      "file": "sub10_var40_workmen_and_staff_welfare_expenses_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Electricity Purchased (Quantity)",
+      "idx": 41,
+      "unit": "(Thousand kWh)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var41_fuels_consumed_-_electricity_purchased_quantity_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Electricity Produced (Quantity)",
+      "idx": 42,
+      "unit": "(Thousand kWh)",
+      "rows": 15,
+      "columns": 1,
+      "file": "sub10_var42_fuels_consumed_-_electricity_produced_quantity_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Electricity Sold (Quantity)",
+      "idx": 43,
+      "unit": "(Thousand kWh)",
+      "rows": 15,
+      "columns": 1,
+      "file": "sub10_var43_fuels_consumed_-_electricity_sold_quantity_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Electricity Consumed (Quantity)",
+      "idx": 44,
+      "unit": "(Thousand kWh)",
+      "rows": 15,
+      "columns": 1,
+      "file": "sub10_var44_fuels_consumed_-_electricity_consumed_quantity_nic14.xls"
+    },
+    {
+      "name": "Rent Received",
+      "idx": 45,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var45_rent_received_nic14.xls"
+    },
+    {
+      "name": "Interest Received",
+      "idx": 46,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var46_interest_received_nic14.xls"
+    },
+    {
+      "name": "Employees Other Than Workers",
+      "idx": 47,
+      "unit": "-",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var47_employees_other_than_workers_nic14.xls"
+    },
+    {
+      "name": "Number of Workers - Directly Employed",
+      "idx": 48,
+      "unit": "-",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var48_number_of_workers_-_directly_employed_nic14.xls"
+    },
+    {
+      "name": "Number of Workers - Directly Employed - Children",
+      "idx": 49,
+      "unit": "-",
+      "rows": 10,
+      "columns": 1,
+      "file": "sub10_var49_number_of_workers_-_directly_employed_-_children_nic14.xls"
+    },
+    {
+      "name": "Number of Workers - Directly Employed - Men",
+      "idx": 50,
+      "unit": "-",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var50_number_of_workers_-_directly_employed_-_men_nic14.xls"
+    },
+    {
+      "name": "Number of Workers - Directly Employed - Women",
+      "idx": 51,
+      "unit": "-",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var51_number_of_workers_-_directly_employed_-_women_nic14.xls"
+    },
+    {
+      "name": "Number of Workers - Employed Through Contractors",
+      "idx": 52,
+      "unit": "-",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var52_number_of_workers_-_employed_through_contractors_nic14.xls"
+    },
+    {
+      "name": "Other Employees",
+      "idx": 53,
+      "unit": "-",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var53_other_employees_nic14.xls"
+    },
+    {
+      "name": "Supervisory and Managerial Staff",
+      "idx": 54,
+      "unit": "-",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var54_supervisory_and_managerial_staff_nic14.xls"
+    },
+    {
+      "name": "Unpaid family members/proprietor etc",
+      "idx": 55,
+      "unit": "-",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var55_unpaid_family_membersproprietor_etc_nic14.xls"
+    },
+    {
+      "name": "Wages and Salaries - Total",
+      "idx": 56,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var56_wages_and_salaries_-_total_nic14.xls"
+    },
+    {
+      "name": "Bonus to All Staff",
+      "idx": 57,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var57_bonus_to_all_staff_nic14.xls"
+    },
+    {
+      "name": "Wages and Salaries - Other Employees",
+      "idx": 58,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var58_wages_and_salaries_-_other_employees_nic14.xls"
+    },
+    {
+      "name": "Wages and Salaries - Supervisory and Managerial Staff",
+      "idx": 59,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var59_wages_and_salaries_-_supervisory_and_managerial_staff_nic14.xls"
+    },
+    {
+      "name": "Number of Factories in Operation",
+      "idx": 60,
+      "unit": "-",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var60_number_of_factories_in_operation_nic14.xls"
+    },
+    {
+      "name": "Gross Value of Addition to Fixed Capital",
+      "idx": 61,
+      "unit": "(Rs Crore)",
+      "rows": 4,
+      "columns": 1,
+      "file": "sub10_var61_gross_value_of_addition_to_fixed_capital_nic14.xls"
+    },
+    {
+      "name": "Gross Value of Plant and Machinery",
+      "idx": 62,
+      "unit": "(Rs Crore)",
+      "rows": 4,
+      "columns": 1,
+      "file": "sub10_var62_gross_value_of_plant_and_machinery_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Coal (Quantity)",
+      "idx": 63,
+      "unit": "(Thousand Tonnes)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var63_fuels_consumed_-_coal_quantity_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Coal (Value)",
+      "idx": 64,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var64_fuels_consumed_-_coal_value_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Electricity (Value)",
+      "idx": 65,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var65_fuels_consumed_-_electricity_value_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Petroleum Products (Value)",
+      "idx": 66,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var66_fuels_consumed_-_petroleum_products_value_nic14.xls"
+    },
+    {
+      "name": "Fuels Consumed - Other Fuel (Value)",
+      "idx": 67,
+      "unit": "(Rs Crore)",
+      "rows": 5,
+      "columns": 1,
+      "file": "sub10_var67_fuels_consumed_-_other_fuel_value_nic14.xls"
+    }
+  ],
+  "year_range": "1973 - 1974 to 2023 - 2024",
+  "is_statewise": false,
+  "output_long": "sub10_nic14_long.csv",
+  "output_wide": "sub10_nic14_wide.csv",
+  "long_rows": 1246,
+  "wide_shape": [
+    51,
+    69
+  ]
+}
